@@ -1,0 +1,8 @@
+- FIRST (Fast, Independent, Repeatable, Selfvalidating, Timely)
+- KISS (Keep it simple, stupid)
+- DRY(Don't repeat yourself)
+- TDD(Test driven development) Schreibe den Test RED, Schreibe Logik GREEN, REFACTOR
+- Given, When, Then
+- BDD (Behavior driven development)
+- Arrange, Act, Assert
+- Unit-Test
